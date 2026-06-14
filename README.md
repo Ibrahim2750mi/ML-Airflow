@@ -1,13 +1,13 @@
 # ML-Airflow
 
-a physics-informed neural network (PINN) to predict:
+A physics-informed neural network (PINN) to predict:
 
-lift coefficient
-drag coefficient
-pressure distribution
++ lift coefficient
++ drag coefficient
++ pressure distribution
 
 from:
 
-wing geometry
-angle of attack
-airspeed
++ wing geometry
++ angle of attack
++ airspeed
