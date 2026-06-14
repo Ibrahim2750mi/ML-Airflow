@@ -1,6 +1,6 @@
 # ML-Airflow
 
-A physics-informed neural network (PINN) to predict:
+A physics-informed neural network (PINN) and FNO to predict:
 
 + lift coefficient
 + drag coefficient
@@ -11,3 +11,5 @@ from:
 + wing geometry
 + angle of attack
 + airspeed
+
+and their comparison.
