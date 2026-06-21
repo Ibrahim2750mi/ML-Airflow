@@ -1,0 +1,9 @@
+{
+    "overall_mae": 0.096964,
+    "overall_rmse": 0.176677,
+    "overall_r2": 0.968623,
+    "cl_mae": 0.07002,
+    "cl_rmse": 0.102266,
+    "cd_mae": 0.123906,
+    "cd_rmse": 0.227976
+}
